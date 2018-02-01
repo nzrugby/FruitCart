@@ -87,30 +87,7 @@ class Cart extends Component{
             </div>    
         </div>
         )
-        /*
-        if(selProducts.length == 0){
-            return(
-                <div>
-                    Cart Items
-                    
-                    No products were added!
-                </div>
-            )
-        }
-        else{
-            var category = selProducts;
-            return(
-                
-                <div className='col-md-3'>
-                    <h4>{this.props.qty[0]==0?"":"Apple:"+this.props.qty[0]}</h4>
-                    <h4>{this.props.qty[1]==0?"":"Pear:"+this.props.qty[1]}</h4>
-                    <h4>{this.props.qty[2]==0?"":"Watermelen:"+this.props.qty[2]}</h4> 
-                    <h4>{this.props.qty[3]==0?"":"Banana:"+this.props.qty[3]}</h4>
-                </div>
-            )
         
-        }
-        */
     }
 }
 
