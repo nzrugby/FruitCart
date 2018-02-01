@@ -17,3 +17,4 @@ After you finish all above steps you can run this app.  Still in this app direct
 The only thing you need to be aware is webpack.config.js and package.json.  After you download all the files you'd better backup these two files. For they might be modified when you install the following packages. Sometimes the different version may incur the problems.
 
 Because this demo mainly focuses on React components and their communications, layout and CSS are not optimized. You can modify them to make the UI better.
+![react1](https://user-images.githubusercontent.com/31294078/35707918-90f213ee-0810-11e8-8cb7-13287f2d405a.jpg)
