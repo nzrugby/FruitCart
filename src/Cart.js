@@ -65,16 +65,11 @@ class Cart extends Component{
             for(var i=0;i<cartItems.length;i++){
                 items.push(cartItems[i]);
             }
-            
             view = <div>
                     
                      <span>Total price is {totalPrice}</span>
                      <TransitionGroup transitionName="fadeIn" transitionEnterTimeout={1} transitionLeaveTimeout={1} component="ul" className="cart-items">{cartItems}</TransitionGroup>
                    </div>;
-
-            
-                  
-            
         }
         return(
         <div className="container" style={{"padding": "100px 50px 10px;"}} >
@@ -87,7 +82,6 @@ class Cart extends Component{
             </div>    
         </div>
         )
-        
     }
 }
 
