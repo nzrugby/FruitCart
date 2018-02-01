@@ -1,4 +1,4 @@
-# FruitCart
+# FruitCart -- React Demo
 A simple demo for React
 
 It's a very simple demo for React beginner. 
