@@ -27,4 +27,5 @@ Because this demo mainly focuses on React components and their communications, l
 
 
 The following is snapshot of this demo.
-![react1](https://user-images.githubusercontent.com/31294078/35707918-90f213ee-0810-11e8-8cb7-13287f2d405a.jpg)
+
+![3](https://user-images.githubusercontent.com/31294078/36070161-f96537bc-0f59-11e8-9f46-2aa30526df63.gif)
